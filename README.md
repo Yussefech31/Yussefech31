@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **4th-year Data Engineering & AI student** at **ENSA de Tetouan, Morocco**, specializing in building production-grade data pipelines and intelligent systems. , I architect end-to-end solutions that transform raw data into actionable business insights.
+I'm a **5th-year Data Engineering & AI student** at **ENSA de Tetouan, Morocco**, specializing in building production-grade data pipelines and intelligent systems. , I architect end-to-end solutions that transform raw data into actionable business insights.
 
 ---
 
